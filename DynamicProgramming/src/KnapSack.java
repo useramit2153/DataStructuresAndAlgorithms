@@ -62,9 +62,9 @@ public class KnapSack {
         if (weight[n - 1] <= maxWeight) {
             v1 = value[n - 1];
             v1 = v1 + knapsackM(tw, tv, output, maxWeight - weight[n - 1], n - 1);
-            v2 = value[n - 1];
+            v2 = 0;
             v2 = v2 + knapsackM(tw, tv, output, maxWeight, n - 1);
-            result = Math.min(v1, v2);
+            result = Math.max(v1, v2);
         } else {
             result = result + knapsackM(tw, tv, output, maxWeight, n - 1);
         }
@@ -86,15 +86,51 @@ public class KnapSack {
                 output[i][j] = -1;
             }
         }
-        int o = knapsackM(weight, value, output, maxWeight, n);
-        for(int i = 0; i < output.length; i ++) {
-            for(int j = 0; j < output[i].length; j ++)
-                System.out.print(output[i][j] + " ");
-            System.out.println();
-        }
-        return o;
+        return knapsackM(weight, value, output, maxWeight, n);
     }
-
+    
+    public static int knapsackSpaceOptimizedDP(int weight[], int value[], int n, int maxWeight) {
+    	int[][] storage = new int[2][maxWeight + 1];
+    	for(int i = 0; i < n; i ++) {
+    		if(i % 2 == 0) {
+    			for(int j = 0; j <= maxWeight; j ++) {
+        			if(weight[i] <= j)
+        				storage[0][j] = Math.max(value[i] + storage[1][j - weight[i]], storage[1][j]);
+        			else
+        				storage[0][j] = storage[1][j];
+        		}
+    		}
+    		else {
+    			for(int j = 0; j <= maxWeight; j ++) {
+        			if(weight[i] <= j)
+        				storage[1][j] = Math.max(value[i] + storage[0][j - weight[i]], storage[0][j]);
+        			else
+        				storage[1][j] = storage[0][j];
+        		}
+    		}
+    	}
+    	return (n + 1) % 2 == 0 ? storage[0][maxWeight] : storage[1][maxWeight];
+    }
+    
+    public static int knapsackDP(int weight[], int value[], int n, int maxWeight) {
+    	int[][] storage = new int[n + 1][maxWeight + 1];
+    	for(int i = 0; i <= n; i ++)
+    		storage[i][0] = 0;
+    	for(int j = 0; j <= maxWeight; j ++)
+    		storage[0][j] = 0;
+    	
+    	for(int i = 1; i <= n; i ++) {
+    		for(int j = 1; j <= maxWeight; j ++) {
+    			if(weight[i - 1] <= j)
+    				storage[i][j] = Math.max(value[i - 1] + storage[i - 1][j - weight[i - 1]], storage[i - 1][j]);
+    			else
+    				storage[i][j] = storage[i - 1][j];
+    		}
+    	}
+    	
+    	return storage[n][maxWeight];
+    }
+    
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int n = scan.nextInt();
@@ -107,6 +143,8 @@ public class KnapSack {
             value[i] = scan.nextInt();
         }
         int maxWeight = scan.nextInt();
+        System.out.println(knapsackSpaceOptimizedDP(weight, value, n, maxWeight));
+        System.out.println(knapsackDP(weight, value, n, maxWeight));
         System.out.println(knapsackM(weight, value, maxWeight));
         System.out.println(knapsack(weight, value, maxWeight, n));
     }

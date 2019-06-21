@@ -49,7 +49,7 @@ public class SubsetOfAnArray {
     }
     
     public static void main(String[] args) {
-        int[] arr = {20, 12};
+        int[] arr = {20, 12, 13, 15};
         int[][] ans = subsets(arr);
         
         for(int i = 0; i < ans.length; i ++) {
