@@ -1466,3 +1466,2763 @@ user global configuration and to define the default location to store repositori
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-06-25 08:30:48.923 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_171
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-06-25 08:31:47.403
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-06-25 08:32:52.076
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\AmitHazra'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-06-25 09:44:44.432 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_171
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2019-06-25 09:45:53.220
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.egit.core 1 0 2019-06-25 09:46:22.460
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-06-25 09:47:08.926
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\AmitHazra'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-06-28 10:58:55.795 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_171
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-06-28 10:59:40.310
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-06-28 11:00:22.700
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\AmitHazra'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-06-28 15:40:31.792 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_171
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-06-28 15:41:27.151
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-06-28 15:42:08.148
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\AmitHazra'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-06-28 20:10:38.145 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_171
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-06-28 20:11:09.533
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-06-28 20:12:01.382
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\AmitHazra'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-06-28 20:25:36.253 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_171
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -data file:/C:/Users/AmitHazra/Desktop/DataStructures/ -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.springframework.ide.eclipse.boot.wizard 4 0 2019-06-28 20:25:57.222
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.springframework.ide.eclipse.boot.wizard [1420]
+  Unresolved requirement: Require-Bundle: org.springsource.ide.eclipse.commons.browser; bundle-version="[3.5.0,4.0.0)"; resolution:="optional"
+  Bundle was not resolved because of a uses constraint violation.
+  org.apache.felix.resolver.reason.ReasonException: Uses constraint violation. Unable to resolve resource org.springframework.ide.eclipse.boot.wizard [osgi.identity; osgi.identity="org.springframework.ide.eclipse.boot.wizard"; type="osgi.bundle"; version:Version="3.9.9.201906180643-RELEASE"; singleton:="true"] because it is exposed to package 'javax.xml.bind.annotation' from resources org.eclipse.osgi [osgi.identity; type="osgi.bundle"; version:Version="3.14.0.v20190517-1309"; osgi.identity="org.eclipse.osgi"; singleton:="true"] and javax.xml.bind [osgi.identity; type="osgi.bundle"; version:Version="2.2.0.v201105210648"; osgi.identity="javax.xml.bind"] via two dependency chains.
+
+Chain 1:
+  org.springframework.ide.eclipse.boot.wizard [osgi.identity; osgi.identity="org.springframework.ide.eclipse.boot.wizard"; type="osgi.bundle"; version:Version="3.9.9.201906180643-RELEASE"; singleton:="true"]
+    require: (osgi.wiring.bundle=org.eclipse.core.runtime)
+     |
+    provide: osgi.wiring.bundle: org.eclipse.core.runtime
+  org.eclipse.osgi [osgi.identity; type="osgi.bundle"; version:Version="3.14.0.v20190517-1309"; osgi.identity="org.eclipse.osgi"; singleton:="true"]
+
+Chain 2:
+  org.springframework.ide.eclipse.boot.wizard [osgi.identity; osgi.identity="org.springframework.ide.eclipse.boot.wizard"; type="osgi.bundle"; version:Version="3.9.9.201906180643-RELEASE"; singleton:="true"]
+    import: (&(osgi.wiring.package=javax.ws.rs)(version>=2.0.1))
+     |
+    export: osgi.wiring.package=javax.ws.rs; uses:=javax.xml.bind.annotation
+  javax.ws.rs [osgi.identity; osgi.identity="javax.ws.rs"; type="osgi.bundle"; version:Version="2.0.1.v201504171603"]
+    import: (&(osgi.wiring.package=javax.xml.bind.annotation)(&(version>=2.2.0)(!(version>=3.0.0))))
+     |
+    export: osgi.wiring.package: javax.xml.bind.annotation
+  javax.xml.bind [osgi.identity; type="osgi.bundle"; version:Version="2.2.0.v201105210648"; osgi.identity="javax.xml.bind"]
+	at org.eclipse.osgi.container.Module.start(Module.java:457)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$1.run(ModuleContainer.java:1820)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$2$1.execute(EquinoxContainerAdaptor.java:150)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1813)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1769)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1735)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1661)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.springframework.ide.eclipse.buildship20 4 0 2019-06-28 20:25:57.369
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.springframework.ide.eclipse.buildship20 [1421]
+  Unresolved requirement: Require-Bundle: org.eclipse.buildship.core; bundle-version="[2.0.0,3.0.0)"; resolution:="optional"
+  Unresolved requirement: Require-Bundle: com.gradleware.tooling.model; resolution:="optional"
+  Unresolved requirement: Require-Bundle: org.springframework.ide.eclipse.boot.wizard
+    -> Bundle-SymbolicName: org.springframework.ide.eclipse.boot.wizard; bundle-version="3.9.9.201906180643-RELEASE"; singleton:="true"
+       org.springframework.ide.eclipse.boot.wizard [1420]
+         Unresolved requirement: Require-Bundle: org.springsource.ide.eclipse.commons.browser; bundle-version="[3.5.0,4.0.0)"; resolution:="optional"
+  Bundle was not resolved because of a uses constraint violation.
+  org.apache.felix.resolver.reason.ReasonException: Uses constraint violation. Unable to resolve resource org.springframework.ide.eclipse.boot.wizard [osgi.identity; osgi.identity="org.springframework.ide.eclipse.boot.wizard"; type="osgi.bundle"; version:Version="3.9.9.201906180643-RELEASE"; singleton:="true"] because it is exposed to package 'javax.xml.bind.annotation' from resources org.eclipse.osgi [osgi.identity; type="osgi.bundle"; version:Version="3.14.0.v20190517-1309"; osgi.identity="org.eclipse.osgi"; singleton:="true"] and javax.xml.bind [osgi.identity; type="osgi.bundle"; version:Version="2.2.0.v201105210648"; osgi.identity="javax.xml.bind"] via two dependency chains.
+
+Chain 1:
+  org.springframework.ide.eclipse.boot.wizard [osgi.identity; osgi.identity="org.springframework.ide.eclipse.boot.wizard"; type="osgi.bundle"; version:Version="3.9.9.201906180643-RELEASE"; singleton:="true"]
+    require: (osgi.wiring.bundle=org.eclipse.core.runtime)
+     |
+    provide: osgi.wiring.bundle: org.eclipse.core.runtime
+  org.eclipse.osgi [osgi.identity; type="osgi.bundle"; version:Version="3.14.0.v20190517-1309"; osgi.identity="org.eclipse.osgi"; singleton:="true"]
+
+Chain 2:
+  org.springframework.ide.eclipse.boot.wizard [osgi.identity; osgi.identity="org.springframework.ide.eclipse.boot.wizard"; type="osgi.bundle"; version:Version="3.9.9.201906180643-RELEASE"; singleton:="true"]
+    import: (&(osgi.wiring.package=javax.ws.rs)(version>=2.0.1))
+     |
+    export: osgi.wiring.package=javax.ws.rs; uses:=javax.xml.bind.annotation
+  javax.ws.rs [osgi.identity; osgi.identity="javax.ws.rs"; type="osgi.bundle"; version:Version="2.0.1.v201504171603"]
+    import: (&(osgi.wiring.package=javax.xml.bind.annotation)(&(version>=2.2.0)(!(version>=3.0.0))))
+     |
+    export: osgi.wiring.package: javax.xml.bind.annotation
+  javax.xml.bind [osgi.identity; type="osgi.bundle"; version:Version="2.2.0.v201105210648"; osgi.identity="javax.xml.bind"]
+	at org.eclipse.osgi.container.Module.start(Module.java:457)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$1.run(ModuleContainer.java:1820)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$2$1.execute(EquinoxContainerAdaptor.java:150)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1813)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1769)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1735)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1661)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.springframework.ide.eclipse.buildship30 4 0 2019-06-28 20:25:57.415
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.springframework.ide.eclipse.buildship30 [1422]
+  Unresolved requirement: Require-Bundle: org.springframework.ide.eclipse.boot.wizard
+    -> Bundle-SymbolicName: org.springframework.ide.eclipse.boot.wizard; bundle-version="3.9.9.201906180643-RELEASE"; singleton:="true"
+       org.springframework.ide.eclipse.boot.wizard [1420]
+         Unresolved requirement: Require-Bundle: org.springsource.ide.eclipse.commons.browser; bundle-version="[3.5.0,4.0.0)"; resolution:="optional"
+  Bundle was not resolved because of a uses constraint violation.
+  org.apache.felix.resolver.reason.ReasonException: Uses constraint violation. Unable to resolve resource org.springframework.ide.eclipse.boot.wizard [osgi.identity; osgi.identity="org.springframework.ide.eclipse.boot.wizard"; type="osgi.bundle"; version:Version="3.9.9.201906180643-RELEASE"; singleton:="true"] because it is exposed to package 'javax.xml.bind.annotation' from resources org.eclipse.osgi [osgi.identity; type="osgi.bundle"; version:Version="3.14.0.v20190517-1309"; osgi.identity="org.eclipse.osgi"; singleton:="true"] and javax.xml.bind [osgi.identity; type="osgi.bundle"; version:Version="2.2.0.v201105210648"; osgi.identity="javax.xml.bind"] via two dependency chains.
+
+Chain 1:
+  org.springframework.ide.eclipse.boot.wizard [osgi.identity; osgi.identity="org.springframework.ide.eclipse.boot.wizard"; type="osgi.bundle"; version:Version="3.9.9.201906180643-RELEASE"; singleton:="true"]
+    require: (osgi.wiring.bundle=org.eclipse.core.runtime)
+     |
+    provide: osgi.wiring.bundle: org.eclipse.core.runtime
+  org.eclipse.osgi [osgi.identity; type="osgi.bundle"; version:Version="3.14.0.v20190517-1309"; osgi.identity="org.eclipse.osgi"; singleton:="true"]
+
+Chain 2:
+  org.springframework.ide.eclipse.boot.wizard [osgi.identity; osgi.identity="org.springframework.ide.eclipse.boot.wizard"; type="osgi.bundle"; version:Version="3.9.9.201906180643-RELEASE"; singleton:="true"]
+    import: (&(osgi.wiring.package=javax.ws.rs)(version>=2.0.1))
+     |
+    export: osgi.wiring.package=javax.ws.rs; uses:=javax.xml.bind.annotation
+  javax.ws.rs [osgi.identity; osgi.identity="javax.ws.rs"; type="osgi.bundle"; version:Version="2.0.1.v201504171603"]
+    import: (&(osgi.wiring.package=javax.xml.bind.annotation)(&(version>=2.2.0)(!(version>=3.0.0))))
+     |
+    export: osgi.wiring.package: javax.xml.bind.annotation
+  javax.xml.bind [osgi.identity; type="osgi.bundle"; version:Version="2.2.0.v201105210648"; osgi.identity="javax.xml.bind"]
+	at org.eclipse.osgi.container.Module.start(Module.java:457)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$1.run(ModuleContainer.java:1820)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$2$1.execute(EquinoxContainerAdaptor.java:150)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1813)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1769)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1735)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1661)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.egit.core 1 0 2019-06-28 20:26:04.193
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jface 2 0 2019-06-28 20:26:05.618
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-06-28 20:26:05.619
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@12e13abd,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5694f6a0,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-06-28 20:26:18.191
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\AmitHazra'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:15.143
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:15.247
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@30611463[org.springframework.tooling.boot.ls:1.8.0.201906200642(id=1426)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:15.272
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:16.701
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.eclipse.lsp4e 4 0 2019-06-28 20:34:17.854
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(Unknown Source)
+	at java.util.concurrent.CompletableFuture.get(Unknown Source)
+	at org.eclipse.lsp4e.operations.hover.LSBasedHover.getHoverInfo(LSBasedHover.java:108)
+	at org.springframework.tooling.boot.ls.jdt.SpringBootJavaHoverProvider.getHoverInfo2(SpringBootJavaHoverProvider.java:43)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:167)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:133)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:45.629
+!MESSAGE Boot LS startup time from start to initialized: 30208ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:45.952
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.HyOpdwhRisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:45.959
+!MESSAGE subscribing to classpath changes: sts4.classpath.HyOpdwhR isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:45.967
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:45.975
+!MESSAGE subsribers = {sts4.classpath.HyOpdwhR=Send Classpath Notifications(1071)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.119
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.132
+!MESSAGE project GraphsPractice ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.145
+!MESSAGE project BinarySearchTrees ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.156
+!MESSAGE Preparing classpath changed notification GraphsPractice
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.165
+!MESSAGE project BinarySearchTreesPractice ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.174
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.185
+!MESSAGE project BinaryTrees ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.200
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.207
+!MESSAGE project CalculatorUI ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.213
+!MESSAGE buffering callback sts4.classpath.HyOpdwhR GraphsPractice false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.220
+!MESSAGE project DynamicProgramming ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.227
+!MESSAGE Preparing classpath changed notification BinarySearchTrees
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.233
+!MESSAGE project FindTheUniqueElement ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.240
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.246
+!MESSAGE project Graphs ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.253
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.259
+!MESSAGE project HackerearthHackathons ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.265
+!MESSAGE buffering callback sts4.classpath.HyOpdwhR BinarySearchTrees false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.271
+!MESSAGE project InterviewBit ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.278
+!MESSAGE project LinkedList ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.285
+!MESSAGE Preparing classpath changed notification BinarySearchTreesPractice
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.292
+!MESSAGE project Maps ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.298
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.304
+!MESSAGE project ObjectOrientedProgramming ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.310
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.316
+!MESSAGE project OthelloGame ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.322
+!MESSAGE buffering callback sts4.classpath.HyOpdwhR BinarySearchTreesPractice false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.328
+!MESSAGE project PriorityQueue ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.334
+!MESSAGE Preparing classpath changed notification BinaryTrees
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.340
+!MESSAGE project Recursion ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.346
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.354
+!MESSAGE project RecursionPractice ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.364
+!MESSAGE project StacksAndQueues ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.371
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.377
+!MESSAGE project TicTacToeGame ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.383
+!MESSAGE buffering callback sts4.classpath.HyOpdwhR BinaryTrees false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.389
+!MESSAGE project TimeAndSpaceComplexity ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.396
+!MESSAGE Preparing classpath changed notification CalculatorUI
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.404
+!MESSAGE project TreeNode ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.413
+!MESSAGE project TriesAndHuffmanCoding ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.423
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.430
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.437
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.HyOpdwhR => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.444
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.451
+!MESSAGE buffering callback sts4.classpath.HyOpdwhR CalculatorUI false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.458
+!MESSAGE Preparing classpath changed notification DynamicProgramming
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.464
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.473
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.479
+!MESSAGE buffering callback sts4.classpath.HyOpdwhR DynamicProgramming false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.485
+!MESSAGE Preparing classpath changed notification FindTheUniqueElement
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.491
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.499
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.505
+!MESSAGE buffering callback sts4.classpath.HyOpdwhR FindTheUniqueElement false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.512
+!MESSAGE Preparing classpath changed notification Graphs
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.519
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.527
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.535
+!MESSAGE buffering callback sts4.classpath.HyOpdwhR Graphs false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.541
+!MESSAGE Preparing classpath changed notification HackerearthHackathons
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.547
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.555
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.562
+!MESSAGE buffering callback sts4.classpath.HyOpdwhR HackerearthHackathons false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.569
+!MESSAGE Preparing classpath changed notification InterviewBit
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.575
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.584
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.590
+!MESSAGE buffering callback sts4.classpath.HyOpdwhR InterviewBit false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.596
+!MESSAGE Preparing classpath changed notification LinkedList
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.603
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.611
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.617
+!MESSAGE buffering callback sts4.classpath.HyOpdwhR LinkedList false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.624
+!MESSAGE Preparing classpath changed notification Maps
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.630
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.638
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.645
+!MESSAGE buffering callback sts4.classpath.HyOpdwhR Maps false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.652
+!MESSAGE Preparing classpath changed notification ObjectOrientedProgramming
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.663
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.671
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.678
+!MESSAGE buffering callback sts4.classpath.HyOpdwhR ObjectOrientedProgramming false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.684
+!MESSAGE Preparing classpath changed notification OthelloGame
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.690
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.698
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.705
+!MESSAGE buffering callback sts4.classpath.HyOpdwhR OthelloGame false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.711
+!MESSAGE Preparing classpath changed notification PriorityQueue
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.717
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.725
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.732
+!MESSAGE buffering callback sts4.classpath.HyOpdwhR PriorityQueue false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.738
+!MESSAGE Preparing classpath changed notification Recursion
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.745
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.752
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.763
+!MESSAGE buffering callback sts4.classpath.HyOpdwhR Recursion false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.769
+!MESSAGE Preparing classpath changed notification RecursionPractice
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.776
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.784
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.790
+!MESSAGE buffering callback sts4.classpath.HyOpdwhR RecursionPractice false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.796
+!MESSAGE Preparing classpath changed notification StacksAndQueues
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.803
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.811
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.818
+!MESSAGE buffering callback sts4.classpath.HyOpdwhR StacksAndQueues false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.826
+!MESSAGE Preparing classpath changed notification TicTacToeGame
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.835
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.844
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.854
+!MESSAGE buffering callback sts4.classpath.HyOpdwhR TicTacToeGame false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.862
+!MESSAGE Preparing classpath changed notification TimeAndSpaceComplexity
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.869
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.877
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.883
+!MESSAGE buffering callback sts4.classpath.HyOpdwhR TimeAndSpaceComplexity false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.890
+!MESSAGE Preparing classpath changed notification TreeNode
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.896
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.904
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.910
+!MESSAGE buffering callback sts4.classpath.HyOpdwhR TreeNode false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.916
+!MESSAGE Preparing classpath changed notification TriesAndHuffmanCoding
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.923
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.931
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.937
+!MESSAGE buffering callback sts4.classpath.HyOpdwhR TriesAndHuffmanCoding false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:46.943
+!MESSAGE executing callback sts4.classpath.HyOpdwhR 22 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 20:34:47.281
+!MESSAGE executing callback sts4.classpath.HyOpdwhR SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 22:56:36.006
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.HyOpdwhR
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 22:56:36.256
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.HyOpdwhR
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 22:56:36.271
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 22:56:36.287
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.HyOpdwhR => OK
+
+!ENTRY org.eclipse.ui 2 2 2019-06-28 22:56:38.084
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2019-06-28 23:19:28.283 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_171
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.springframework.ide.eclipse.boot.wizard 4 0 2019-06-28 23:19:35.189
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.springframework.ide.eclipse.boot.wizard [1420]
+  Unresolved requirement: Require-Bundle: org.springsource.ide.eclipse.commons.browser; bundle-version="[3.5.0,4.0.0)"; resolution:="optional"
+  Bundle was not resolved because of a uses constraint violation.
+  org.apache.felix.resolver.reason.ReasonException: Uses constraint violation. Unable to resolve resource org.springframework.ide.eclipse.boot.wizard [osgi.identity; type="osgi.bundle"; version:Version="3.9.9.201906180643-RELEASE"; osgi.identity="org.springframework.ide.eclipse.boot.wizard"; singleton:="true"] because it is exposed to package 'javax.xml.bind.annotation' from resources org.eclipse.osgi [osgi.identity; type="osgi.bundle"; version:Version="3.14.0.v20190517-1309"; osgi.identity="org.eclipse.osgi"; singleton:="true"] and javax.xml.bind [osgi.identity; type="osgi.bundle"; version:Version="2.2.0.v201105210648"; osgi.identity="javax.xml.bind"] via two dependency chains.
+
+Chain 1:
+  org.springframework.ide.eclipse.boot.wizard [osgi.identity; type="osgi.bundle"; version:Version="3.9.9.201906180643-RELEASE"; osgi.identity="org.springframework.ide.eclipse.boot.wizard"; singleton:="true"]
+    require: (osgi.wiring.bundle=org.eclipse.core.runtime)
+     |
+    provide: osgi.wiring.bundle: org.eclipse.core.runtime
+  org.eclipse.osgi [osgi.identity; type="osgi.bundle"; version:Version="3.14.0.v20190517-1309"; osgi.identity="org.eclipse.osgi"; singleton:="true"]
+
+Chain 2:
+  org.springframework.ide.eclipse.boot.wizard [osgi.identity; type="osgi.bundle"; version:Version="3.9.9.201906180643-RELEASE"; osgi.identity="org.springframework.ide.eclipse.boot.wizard"; singleton:="true"]
+    import: (&(osgi.wiring.package=javax.ws.rs)(version>=2.0.1))
+     |
+    export: osgi.wiring.package=javax.ws.rs; uses:=javax.xml.bind.annotation
+  javax.ws.rs [osgi.identity; type="osgi.bundle"; version:Version="2.0.1.v201504171603"; osgi.identity="javax.ws.rs"]
+    import: (&(osgi.wiring.package=javax.xml.bind.annotation)(&(version>=2.2.0)(!(version>=3.0.0))))
+     |
+    export: osgi.wiring.package: javax.xml.bind.annotation
+  javax.xml.bind [osgi.identity; type="osgi.bundle"; version:Version="2.2.0.v201105210648"; osgi.identity="javax.xml.bind"]
+	at org.eclipse.osgi.container.Module.start(Module.java:457)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$1.run(ModuleContainer.java:1820)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$2$1.execute(EquinoxContainerAdaptor.java:150)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1813)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1769)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1735)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1661)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.springframework.ide.eclipse.buildship20 4 0 2019-06-28 23:19:35.314
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.springframework.ide.eclipse.buildship20 [1421]
+  Unresolved requirement: Require-Bundle: org.eclipse.buildship.core; bundle-version="[2.0.0,3.0.0)"; resolution:="optional"
+  Unresolved requirement: Require-Bundle: com.gradleware.tooling.model; resolution:="optional"
+  Unresolved requirement: Require-Bundle: org.springframework.ide.eclipse.boot.wizard
+    -> Bundle-SymbolicName: org.springframework.ide.eclipse.boot.wizard; bundle-version="3.9.9.201906180643-RELEASE"; singleton:="true"
+       org.springframework.ide.eclipse.boot.wizard [1420]
+         Unresolved requirement: Require-Bundle: org.springsource.ide.eclipse.commons.browser; bundle-version="[3.5.0,4.0.0)"; resolution:="optional"
+  Bundle was not resolved because of a uses constraint violation.
+  org.apache.felix.resolver.reason.ReasonException: Uses constraint violation. Unable to resolve resource org.springframework.ide.eclipse.boot.wizard [osgi.identity; type="osgi.bundle"; version:Version="3.9.9.201906180643-RELEASE"; osgi.identity="org.springframework.ide.eclipse.boot.wizard"; singleton:="true"] because it is exposed to package 'javax.xml.bind.annotation' from resources org.eclipse.osgi [osgi.identity; type="osgi.bundle"; version:Version="3.14.0.v20190517-1309"; osgi.identity="org.eclipse.osgi"; singleton:="true"] and javax.xml.bind [osgi.identity; type="osgi.bundle"; version:Version="2.2.0.v201105210648"; osgi.identity="javax.xml.bind"] via two dependency chains.
+
+Chain 1:
+  org.springframework.ide.eclipse.boot.wizard [osgi.identity; type="osgi.bundle"; version:Version="3.9.9.201906180643-RELEASE"; osgi.identity="org.springframework.ide.eclipse.boot.wizard"; singleton:="true"]
+    require: (osgi.wiring.bundle=org.eclipse.core.runtime)
+     |
+    provide: osgi.wiring.bundle: org.eclipse.core.runtime
+  org.eclipse.osgi [osgi.identity; type="osgi.bundle"; version:Version="3.14.0.v20190517-1309"; osgi.identity="org.eclipse.osgi"; singleton:="true"]
+
+Chain 2:
+  org.springframework.ide.eclipse.boot.wizard [osgi.identity; type="osgi.bundle"; version:Version="3.9.9.201906180643-RELEASE"; osgi.identity="org.springframework.ide.eclipse.boot.wizard"; singleton:="true"]
+    import: (&(osgi.wiring.package=javax.ws.rs)(version>=2.0.1))
+     |
+    export: osgi.wiring.package=javax.ws.rs; uses:=javax.xml.bind.annotation
+  javax.ws.rs [osgi.identity; type="osgi.bundle"; version:Version="2.0.1.v201504171603"; osgi.identity="javax.ws.rs"]
+    import: (&(osgi.wiring.package=javax.xml.bind.annotation)(&(version>=2.2.0)(!(version>=3.0.0))))
+     |
+    export: osgi.wiring.package: javax.xml.bind.annotation
+  javax.xml.bind [osgi.identity; type="osgi.bundle"; version:Version="2.2.0.v201105210648"; osgi.identity="javax.xml.bind"]
+	at org.eclipse.osgi.container.Module.start(Module.java:457)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$1.run(ModuleContainer.java:1820)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$2$1.execute(EquinoxContainerAdaptor.java:150)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1813)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1769)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1735)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1661)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.springframework.ide.eclipse.buildship30 4 0 2019-06-28 23:19:35.392
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.springframework.ide.eclipse.buildship30 [1422]
+  Unresolved requirement: Require-Bundle: org.springframework.ide.eclipse.boot.wizard
+    -> Bundle-SymbolicName: org.springframework.ide.eclipse.boot.wizard; bundle-version="3.9.9.201906180643-RELEASE"; singleton:="true"
+       org.springframework.ide.eclipse.boot.wizard [1420]
+         Unresolved requirement: Require-Bundle: org.springsource.ide.eclipse.commons.browser; bundle-version="[3.5.0,4.0.0)"; resolution:="optional"
+  Bundle was not resolved because of a uses constraint violation.
+  org.apache.felix.resolver.reason.ReasonException: Uses constraint violation. Unable to resolve resource org.springframework.ide.eclipse.boot.wizard [osgi.identity; type="osgi.bundle"; version:Version="3.9.9.201906180643-RELEASE"; osgi.identity="org.springframework.ide.eclipse.boot.wizard"; singleton:="true"] because it is exposed to package 'javax.xml.bind.annotation' from resources org.eclipse.osgi [osgi.identity; type="osgi.bundle"; version:Version="3.14.0.v20190517-1309"; osgi.identity="org.eclipse.osgi"; singleton:="true"] and javax.xml.bind [osgi.identity; type="osgi.bundle"; version:Version="2.2.0.v201105210648"; osgi.identity="javax.xml.bind"] via two dependency chains.
+
+Chain 1:
+  org.springframework.ide.eclipse.boot.wizard [osgi.identity; type="osgi.bundle"; version:Version="3.9.9.201906180643-RELEASE"; osgi.identity="org.springframework.ide.eclipse.boot.wizard"; singleton:="true"]
+    require: (osgi.wiring.bundle=org.eclipse.core.runtime)
+     |
+    provide: osgi.wiring.bundle: org.eclipse.core.runtime
+  org.eclipse.osgi [osgi.identity; type="osgi.bundle"; version:Version="3.14.0.v20190517-1309"; osgi.identity="org.eclipse.osgi"; singleton:="true"]
+
+Chain 2:
+  org.springframework.ide.eclipse.boot.wizard [osgi.identity; type="osgi.bundle"; version:Version="3.9.9.201906180643-RELEASE"; osgi.identity="org.springframework.ide.eclipse.boot.wizard"; singleton:="true"]
+    import: (&(osgi.wiring.package=javax.ws.rs)(version>=2.0.1))
+     |
+    export: osgi.wiring.package=javax.ws.rs; uses:=javax.xml.bind.annotation
+  javax.ws.rs [osgi.identity; type="osgi.bundle"; version:Version="2.0.1.v201504171603"; osgi.identity="javax.ws.rs"]
+    import: (&(osgi.wiring.package=javax.xml.bind.annotation)(&(version>=2.2.0)(!(version>=3.0.0))))
+     |
+    export: osgi.wiring.package: javax.xml.bind.annotation
+  javax.xml.bind [osgi.identity; type="osgi.bundle"; version:Version="2.2.0.v201105210648"; osgi.identity="javax.xml.bind"]
+	at org.eclipse.osgi.container.Module.start(Module.java:457)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$1.run(ModuleContainer.java:1820)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$2$1.execute(EquinoxContainerAdaptor.java:150)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1813)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1769)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1735)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1661)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.egit.core 1 0 2019-06-28 23:19:54.517
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jface 2 0 2019-06-28 23:19:57.684
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-06-28 23:19:57.684
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4fc8163,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6c26e588,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-06-28 23:20:24.725
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\AmitHazra'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:25.679
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:25.734
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@54b52a52[org.springframework.tooling.boot.ls:1.8.0.201906200642(id=1426)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:25.800
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:25.927
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:45.467
+!MESSAGE Boot LS startup time from start to initialized: 19621ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:45.644
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.cnZWzMeHisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:45.655
+!MESSAGE subscribing to classpath changes: sts4.classpath.cnZWzMeH isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:45.663
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:45.671
+!MESSAGE subsribers = {sts4.classpath.cnZWzMeH=Send Classpath Notifications(781)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:45.677
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:45.687
+!MESSAGE project GraphsPractice ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:45.694
+!MESSAGE project BinarySearchTrees ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:45.701
+!MESSAGE project BinarySearchTreesPractice ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:45.709
+!MESSAGE project BinaryTrees ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:45.716
+!MESSAGE project CalculatorUI ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:45.723
+!MESSAGE project DynamicProgramming ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:45.916
+!MESSAGE Preparing classpath changed notification GraphsPractice
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:45.922
+!MESSAGE project FindTheUniqueElement ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:45.928
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:45.935
+!MESSAGE project Graphs ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:45.942
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:45.948
+!MESSAGE project HackerearthHackathons ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:45.954
+!MESSAGE buffering callback sts4.classpath.cnZWzMeH GraphsPractice false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:45.960
+!MESSAGE project InterviewBit ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:45.966
+!MESSAGE Preparing classpath changed notification BinarySearchTrees
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:45.971
+!MESSAGE project LinkedList ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:45.977
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:45.983
+!MESSAGE project Maps ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:45.989
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:45.995
+!MESSAGE project ObjectOrientedProgramming ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.001
+!MESSAGE buffering callback sts4.classpath.cnZWzMeH BinarySearchTrees false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.007
+!MESSAGE project OthelloGame ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.013
+!MESSAGE Preparing classpath changed notification BinarySearchTreesPractice
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.019
+!MESSAGE project PriorityQueue ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.026
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.032
+!MESSAGE project Recursion ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.039
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.045
+!MESSAGE project RecursionPractice ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.050
+!MESSAGE buffering callback sts4.classpath.cnZWzMeH BinarySearchTreesPractice false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.056
+!MESSAGE project StacksAndQueues ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.062
+!MESSAGE Preparing classpath changed notification BinaryTrees
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.068
+!MESSAGE project TicTacToeGame ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.074
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.080
+!MESSAGE project TimeAndSpaceComplexity ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.086
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.092
+!MESSAGE project TreeNode ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.098
+!MESSAGE buffering callback sts4.classpath.cnZWzMeH BinaryTrees false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.103
+!MESSAGE project TriesAndHuffmanCoding ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.109
+!MESSAGE Preparing classpath changed notification CalculatorUI
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.115
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.121
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.127
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.cnZWzMeH => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.134
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.140
+!MESSAGE buffering callback sts4.classpath.cnZWzMeH CalculatorUI false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.146
+!MESSAGE Preparing classpath changed notification DynamicProgramming
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.153
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.160
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.166
+!MESSAGE buffering callback sts4.classpath.cnZWzMeH DynamicProgramming false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.172
+!MESSAGE Preparing classpath changed notification FindTheUniqueElement
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.178
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.187
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.193
+!MESSAGE buffering callback sts4.classpath.cnZWzMeH FindTheUniqueElement false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.199
+!MESSAGE Preparing classpath changed notification Graphs
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.206
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.214
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.220
+!MESSAGE buffering callback sts4.classpath.cnZWzMeH Graphs false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.226
+!MESSAGE Preparing classpath changed notification HackerearthHackathons
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.233
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.240
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.247
+!MESSAGE buffering callback sts4.classpath.cnZWzMeH HackerearthHackathons false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.253
+!MESSAGE Preparing classpath changed notification InterviewBit
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.259
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.267
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.273
+!MESSAGE buffering callback sts4.classpath.cnZWzMeH InterviewBit false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.279
+!MESSAGE Preparing classpath changed notification LinkedList
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.285
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.292
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.298
+!MESSAGE buffering callback sts4.classpath.cnZWzMeH LinkedList false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.304
+!MESSAGE Preparing classpath changed notification Maps
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.310
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.317
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.323
+!MESSAGE buffering callback sts4.classpath.cnZWzMeH Maps false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.329
+!MESSAGE Preparing classpath changed notification ObjectOrientedProgramming
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.336
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.343
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.350
+!MESSAGE buffering callback sts4.classpath.cnZWzMeH ObjectOrientedProgramming false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.356
+!MESSAGE Preparing classpath changed notification OthelloGame
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.363
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.370
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.377
+!MESSAGE buffering callback sts4.classpath.cnZWzMeH OthelloGame false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.383
+!MESSAGE Preparing classpath changed notification PriorityQueue
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.389
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.397
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.403
+!MESSAGE buffering callback sts4.classpath.cnZWzMeH PriorityQueue false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.409
+!MESSAGE Preparing classpath changed notification Recursion
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.415
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.422
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.428
+!MESSAGE buffering callback sts4.classpath.cnZWzMeH Recursion false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.435
+!MESSAGE Preparing classpath changed notification RecursionPractice
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.441
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.448
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.455
+!MESSAGE buffering callback sts4.classpath.cnZWzMeH RecursionPractice false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.461
+!MESSAGE Preparing classpath changed notification StacksAndQueues
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.467
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.476
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.482
+!MESSAGE buffering callback sts4.classpath.cnZWzMeH StacksAndQueues false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.489
+!MESSAGE Preparing classpath changed notification TicTacToeGame
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.496
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.504
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.511
+!MESSAGE buffering callback sts4.classpath.cnZWzMeH TicTacToeGame false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.518
+!MESSAGE Preparing classpath changed notification TimeAndSpaceComplexity
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.525
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.532
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.539
+!MESSAGE buffering callback sts4.classpath.cnZWzMeH TimeAndSpaceComplexity false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.545
+!MESSAGE Preparing classpath changed notification TreeNode
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.552
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.559
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.566
+!MESSAGE buffering callback sts4.classpath.cnZWzMeH TreeNode false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.572
+!MESSAGE Preparing classpath changed notification TriesAndHuffmanCoding
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.578
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.585
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.592
+!MESSAGE buffering callback sts4.classpath.cnZWzMeH TriesAndHuffmanCoding false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.598
+!MESSAGE executing callback sts4.classpath.cnZWzMeH 22 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-28 23:20:46.985
+!MESSAGE executing callback sts4.classpath.cnZWzMeH SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 4 0 2019-06-28 23:36:52.768
+!MESSAGE 
+!STACK 0
+java.lang.InterruptedException
+	at java.util.concurrent.CompletableFuture.reportGet(Unknown Source)
+	at java.util.concurrent.CompletableFuture.get(Unknown Source)
+	at org.eclipse.lsp4e.operations.hover.LSBasedHover.getHoverInfo(LSBasedHover.java:108)
+	at org.springframework.tooling.boot.ls.jdt.SpringBootJavaHoverProvider.getHoverInfo2(SpringBootJavaHoverProvider.java:43)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:167)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:133)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 00:43:58.808
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.cnZWzMeH
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 00:43:58.971
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.cnZWzMeH
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 00:43:59.091
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 00:43:59.137
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.cnZWzMeH => OK
+
+!ENTRY org.eclipse.ui 2 2 2019-06-29 00:44:00.811
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2019-06-29 08:50:57.787 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_171
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.springframework.ide.eclipse.boot.wizard 4 0 2019-06-29 08:51:15.537
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.springframework.ide.eclipse.boot.wizard [1420]
+  Unresolved requirement: Require-Bundle: org.springsource.ide.eclipse.commons.browser; bundle-version="[3.5.0,4.0.0)"; resolution:="optional"
+  Bundle was not resolved because of a uses constraint violation.
+  org.apache.felix.resolver.reason.ReasonException: Uses constraint violation. Unable to resolve resource org.springframework.ide.eclipse.boot.wizard [osgi.identity; type="osgi.bundle"; version:Version="3.9.9.201906180643-RELEASE"; osgi.identity="org.springframework.ide.eclipse.boot.wizard"; singleton:="true"] because it is exposed to package 'javax.xml.bind.annotation' from resources org.eclipse.osgi [osgi.identity; type="osgi.bundle"; version:Version="3.14.0.v20190517-1309"; osgi.identity="org.eclipse.osgi"; singleton:="true"] and javax.xml.bind [osgi.identity; type="osgi.bundle"; version:Version="2.2.0.v201105210648"; osgi.identity="javax.xml.bind"] via two dependency chains.
+
+Chain 1:
+  org.springframework.ide.eclipse.boot.wizard [osgi.identity; type="osgi.bundle"; version:Version="3.9.9.201906180643-RELEASE"; osgi.identity="org.springframework.ide.eclipse.boot.wizard"; singleton:="true"]
+    require: (osgi.wiring.bundle=org.eclipse.core.runtime)
+     |
+    provide: osgi.wiring.bundle: org.eclipse.core.runtime
+  org.eclipse.osgi [osgi.identity; type="osgi.bundle"; version:Version="3.14.0.v20190517-1309"; osgi.identity="org.eclipse.osgi"; singleton:="true"]
+
+Chain 2:
+  org.springframework.ide.eclipse.boot.wizard [osgi.identity; type="osgi.bundle"; version:Version="3.9.9.201906180643-RELEASE"; osgi.identity="org.springframework.ide.eclipse.boot.wizard"; singleton:="true"]
+    import: (&(osgi.wiring.package=javax.ws.rs)(version>=2.0.1))
+     |
+    export: osgi.wiring.package=javax.ws.rs; uses:=javax.xml.bind.annotation
+  javax.ws.rs [osgi.identity; type="osgi.bundle"; version:Version="2.0.1.v201504171603"; osgi.identity="javax.ws.rs"]
+    import: (&(osgi.wiring.package=javax.xml.bind.annotation)(&(version>=2.2.0)(!(version>=3.0.0))))
+     |
+    export: osgi.wiring.package: javax.xml.bind.annotation
+  javax.xml.bind [osgi.identity; type="osgi.bundle"; version:Version="2.2.0.v201105210648"; osgi.identity="javax.xml.bind"]
+	at org.eclipse.osgi.container.Module.start(Module.java:457)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$1.run(ModuleContainer.java:1820)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$2$1.execute(EquinoxContainerAdaptor.java:150)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1813)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1769)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1735)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1661)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.springframework.ide.eclipse.buildship20 4 0 2019-06-29 08:51:15.654
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.springframework.ide.eclipse.buildship20 [1421]
+  Unresolved requirement: Require-Bundle: org.eclipse.buildship.core; bundle-version="[2.0.0,3.0.0)"; resolution:="optional"
+  Unresolved requirement: Require-Bundle: com.gradleware.tooling.model; resolution:="optional"
+  Unresolved requirement: Require-Bundle: org.springframework.ide.eclipse.boot.wizard
+    -> Bundle-SymbolicName: org.springframework.ide.eclipse.boot.wizard; bundle-version="3.9.9.201906180643-RELEASE"; singleton:="true"
+       org.springframework.ide.eclipse.boot.wizard [1420]
+         Unresolved requirement: Require-Bundle: org.springsource.ide.eclipse.commons.browser; bundle-version="[3.5.0,4.0.0)"; resolution:="optional"
+  Bundle was not resolved because of a uses constraint violation.
+  org.apache.felix.resolver.reason.ReasonException: Uses constraint violation. Unable to resolve resource org.springframework.ide.eclipse.boot.wizard [osgi.identity; type="osgi.bundle"; version:Version="3.9.9.201906180643-RELEASE"; osgi.identity="org.springframework.ide.eclipse.boot.wizard"; singleton:="true"] because it is exposed to package 'javax.xml.bind.annotation' from resources org.eclipse.osgi [osgi.identity; type="osgi.bundle"; version:Version="3.14.0.v20190517-1309"; osgi.identity="org.eclipse.osgi"; singleton:="true"] and javax.xml.bind [osgi.identity; type="osgi.bundle"; version:Version="2.2.0.v201105210648"; osgi.identity="javax.xml.bind"] via two dependency chains.
+
+Chain 1:
+  org.springframework.ide.eclipse.boot.wizard [osgi.identity; type="osgi.bundle"; version:Version="3.9.9.201906180643-RELEASE"; osgi.identity="org.springframework.ide.eclipse.boot.wizard"; singleton:="true"]
+    require: (osgi.wiring.bundle=org.eclipse.core.runtime)
+     |
+    provide: osgi.wiring.bundle: org.eclipse.core.runtime
+  org.eclipse.osgi [osgi.identity; type="osgi.bundle"; version:Version="3.14.0.v20190517-1309"; osgi.identity="org.eclipse.osgi"; singleton:="true"]
+
+Chain 2:
+  org.springframework.ide.eclipse.boot.wizard [osgi.identity; type="osgi.bundle"; version:Version="3.9.9.201906180643-RELEASE"; osgi.identity="org.springframework.ide.eclipse.boot.wizard"; singleton:="true"]
+    import: (&(osgi.wiring.package=javax.ws.rs)(version>=2.0.1))
+     |
+    export: osgi.wiring.package=javax.ws.rs; uses:=javax.xml.bind.annotation
+  javax.ws.rs [osgi.identity; type="osgi.bundle"; version:Version="2.0.1.v201504171603"; osgi.identity="javax.ws.rs"]
+    import: (&(osgi.wiring.package=javax.xml.bind.annotation)(&(version>=2.2.0)(!(version>=3.0.0))))
+     |
+    export: osgi.wiring.package: javax.xml.bind.annotation
+  javax.xml.bind [osgi.identity; type="osgi.bundle"; version:Version="2.2.0.v201105210648"; osgi.identity="javax.xml.bind"]
+	at org.eclipse.osgi.container.Module.start(Module.java:457)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$1.run(ModuleContainer.java:1820)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$2$1.execute(EquinoxContainerAdaptor.java:150)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1813)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1769)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1735)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1661)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.springframework.ide.eclipse.buildship30 4 0 2019-06-29 08:51:15.764
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.springframework.ide.eclipse.buildship30 [1422]
+  Unresolved requirement: Require-Bundle: org.springframework.ide.eclipse.boot.wizard
+    -> Bundle-SymbolicName: org.springframework.ide.eclipse.boot.wizard; bundle-version="3.9.9.201906180643-RELEASE"; singleton:="true"
+       org.springframework.ide.eclipse.boot.wizard [1420]
+         Unresolved requirement: Require-Bundle: org.springsource.ide.eclipse.commons.browser; bundle-version="[3.5.0,4.0.0)"; resolution:="optional"
+  Bundle was not resolved because of a uses constraint violation.
+  org.apache.felix.resolver.reason.ReasonException: Uses constraint violation. Unable to resolve resource org.springframework.ide.eclipse.boot.wizard [osgi.identity; type="osgi.bundle"; version:Version="3.9.9.201906180643-RELEASE"; osgi.identity="org.springframework.ide.eclipse.boot.wizard"; singleton:="true"] because it is exposed to package 'javax.xml.bind.annotation' from resources org.eclipse.osgi [osgi.identity; type="osgi.bundle"; version:Version="3.14.0.v20190517-1309"; osgi.identity="org.eclipse.osgi"; singleton:="true"] and javax.xml.bind [osgi.identity; type="osgi.bundle"; version:Version="2.2.0.v201105210648"; osgi.identity="javax.xml.bind"] via two dependency chains.
+
+Chain 1:
+  org.springframework.ide.eclipse.boot.wizard [osgi.identity; type="osgi.bundle"; version:Version="3.9.9.201906180643-RELEASE"; osgi.identity="org.springframework.ide.eclipse.boot.wizard"; singleton:="true"]
+    require: (osgi.wiring.bundle=org.eclipse.core.runtime)
+     |
+    provide: osgi.wiring.bundle: org.eclipse.core.runtime
+  org.eclipse.osgi [osgi.identity; type="osgi.bundle"; version:Version="3.14.0.v20190517-1309"; osgi.identity="org.eclipse.osgi"; singleton:="true"]
+
+Chain 2:
+  org.springframework.ide.eclipse.boot.wizard [osgi.identity; type="osgi.bundle"; version:Version="3.9.9.201906180643-RELEASE"; osgi.identity="org.springframework.ide.eclipse.boot.wizard"; singleton:="true"]
+    import: (&(osgi.wiring.package=javax.ws.rs)(version>=2.0.1))
+     |
+    export: osgi.wiring.package=javax.ws.rs; uses:=javax.xml.bind.annotation
+  javax.ws.rs [osgi.identity; type="osgi.bundle"; version:Version="2.0.1.v201504171603"; osgi.identity="javax.ws.rs"]
+    import: (&(osgi.wiring.package=javax.xml.bind.annotation)(&(version>=2.2.0)(!(version>=3.0.0))))
+     |
+    export: osgi.wiring.package: javax.xml.bind.annotation
+  javax.xml.bind [osgi.identity; type="osgi.bundle"; version:Version="2.2.0.v201105210648"; osgi.identity="javax.xml.bind"]
+	at org.eclipse.osgi.container.Module.start(Module.java:457)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$1.run(ModuleContainer.java:1820)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$2$1.execute(EquinoxContainerAdaptor.java:150)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1813)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1769)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1735)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1661)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.egit.core 1 0 2019-06-29 08:51:44.972
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jface 2 0 2019-06-29 08:51:50.234
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-06-29 08:51:50.234
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2d5435d4,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6dbdbb69,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-06-29 08:52:25.405
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\AmitHazra'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:52:32.506
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:52:32.524
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@65525b62[org.springframework.tooling.boot.ls:1.8.0.201906200642(id=1426)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:52:32.657
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:52:39.968
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:45.820
+!MESSAGE Boot LS startup time from start to initialized: 73073ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:46.206
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.ygQBgPilisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:46.258
+!MESSAGE subscribing to classpath changes: sts4.classpath.ygQBgPil isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:46.268
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:46.332
+!MESSAGE subsribers = {sts4.classpath.ygQBgPil=Send Classpath Notifications(795)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:46.340
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:46.454
+!MESSAGE project GraphsPractice ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:46.520
+!MESSAGE project BinarySearchTrees ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:46.544
+!MESSAGE Preparing classpath changed notification GraphsPractice
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:46.559
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:46.575
+!MESSAGE project BinarySearchTreesPractice ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:46.594
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:46.608
+!MESSAGE project BinaryTrees ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:46.615
+!MESSAGE buffering callback sts4.classpath.ygQBgPil GraphsPractice false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:46.628
+!MESSAGE project CalculatorUI ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:46.637
+!MESSAGE Preparing classpath changed notification BinarySearchTrees
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:46.644
+!MESSAGE project DynamicProgramming ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:46.650
+!MESSAGE project FindTheUniqueElement ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:46.657
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:46.676
+!MESSAGE project Graphs ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:46.685
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:46.691
+!MESSAGE project HackerearthHackathons ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:46.698
+!MESSAGE buffering callback sts4.classpath.ygQBgPil BinarySearchTrees false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:46.705
+!MESSAGE project InterviewBit ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:46.720
+!MESSAGE project LinkedList ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:46.797
+!MESSAGE Preparing classpath changed notification BinarySearchTreesPractice
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:46.819
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:46.955
+!MESSAGE project Maps ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:46.968
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:46.981
+!MESSAGE buffering callback sts4.classpath.ygQBgPil BinarySearchTreesPractice false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:47.006
+!MESSAGE Preparing classpath changed notification BinaryTrees
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:47.053
+!MESSAGE project ObjectOrientedProgramming ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:47.061
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:47.069
+!MESSAGE project OthelloGame ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:47.078
+!MESSAGE project PriorityQueue ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:47.085
+!MESSAGE project Recursion ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:47.093
+!MESSAGE project RecursionPractice ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:47.100
+!MESSAGE project StacksAndQueues ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:47.108
+!MESSAGE project TicTacToeGame ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:47.115
+!MESSAGE project TimeAndSpaceComplexity ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:47.122
+!MESSAGE project TreeNode ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:47.130
+!MESSAGE project TriesAndHuffmanCoding ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:47.138
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:47.145
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.ygQBgPil => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:47.159
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:47.196
+!MESSAGE buffering callback sts4.classpath.ygQBgPil BinaryTrees false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:47.216
+!MESSAGE Preparing classpath changed notification CalculatorUI
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:47.245
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:47.266
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:47.277
+!MESSAGE buffering callback sts4.classpath.ygQBgPil CalculatorUI false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:47.293
+!MESSAGE Preparing classpath changed notification DynamicProgramming
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:47.320
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:47.353
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:47.372
+!MESSAGE buffering callback sts4.classpath.ygQBgPil DynamicProgramming false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:47.437
+!MESSAGE Preparing classpath changed notification FindTheUniqueElement
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:47.466
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:47.495
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:47.587
+!MESSAGE buffering callback sts4.classpath.ygQBgPil FindTheUniqueElement false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:47.691
+!MESSAGE Preparing classpath changed notification Graphs
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:47.795
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:47.812
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.039
+!MESSAGE buffering callback sts4.classpath.ygQBgPil Graphs false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.130
+!MESSAGE Preparing classpath changed notification HackerearthHackathons
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.163
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.213
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.239
+!MESSAGE buffering callback sts4.classpath.ygQBgPil HackerearthHackathons false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.248
+!MESSAGE Preparing classpath changed notification InterviewBit
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.270
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.365
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.380
+!MESSAGE buffering callback sts4.classpath.ygQBgPil InterviewBit false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.387
+!MESSAGE Preparing classpath changed notification LinkedList
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.404
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.420
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.431
+!MESSAGE buffering callback sts4.classpath.ygQBgPil LinkedList false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.457
+!MESSAGE Preparing classpath changed notification Maps
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.465
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.474
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.482
+!MESSAGE buffering callback sts4.classpath.ygQBgPil Maps false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.490
+!MESSAGE Preparing classpath changed notification ObjectOrientedProgramming
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.498
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.510
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.523
+!MESSAGE buffering callback sts4.classpath.ygQBgPil ObjectOrientedProgramming false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.530
+!MESSAGE Preparing classpath changed notification OthelloGame
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.537
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.550
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.557
+!MESSAGE buffering callback sts4.classpath.ygQBgPil OthelloGame false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.583
+!MESSAGE Preparing classpath changed notification PriorityQueue
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.592
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.608
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.617
+!MESSAGE buffering callback sts4.classpath.ygQBgPil PriorityQueue false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.625
+!MESSAGE Preparing classpath changed notification Recursion
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.633
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.643
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.650
+!MESSAGE buffering callback sts4.classpath.ygQBgPil Recursion false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.658
+!MESSAGE Preparing classpath changed notification RecursionPractice
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.666
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.687
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.696
+!MESSAGE buffering callback sts4.classpath.ygQBgPil RecursionPractice false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.703
+!MESSAGE Preparing classpath changed notification StacksAndQueues
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.711
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.912
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.973
+!MESSAGE buffering callback sts4.classpath.ygQBgPil StacksAndQueues false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.980
+!MESSAGE Preparing classpath changed notification TicTacToeGame
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.988
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:48.999
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:49.090
+!MESSAGE buffering callback sts4.classpath.ygQBgPil TicTacToeGame false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:49.101
+!MESSAGE Preparing classpath changed notification TimeAndSpaceComplexity
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:49.122
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:49.133
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:49.140
+!MESSAGE buffering callback sts4.classpath.ygQBgPil TimeAndSpaceComplexity false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:49.149
+!MESSAGE Preparing classpath changed notification TreeNode
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:49.157
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:49.170
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:49.179
+!MESSAGE buffering callback sts4.classpath.ygQBgPil TreeNode false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:49.188
+!MESSAGE Preparing classpath changed notification TriesAndHuffmanCoding
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:49.196
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:49.205
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:49.213
+!MESSAGE buffering callback sts4.classpath.ygQBgPil TriesAndHuffmanCoding false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:49.222
+!MESSAGE executing callback sts4.classpath.ygQBgPil 22 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 08:53:49.568
+!MESSAGE executing callback sts4.classpath.ygQBgPil SUCCESS [done]
+
+!ENTRY org.eclipse.ui 4 0 2019-06-29 09:28:56.181
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.e4.core.di.InjectionException: java.lang.NullPointerException
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:68)
+	at org.eclipse.e4.ui.internal.di.UIEventObjectSupplier$UIEventHandler$1.run(UIEventObjectSupplier.java:67)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:236)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:146)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4580)
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application$1.syncExec(E4Application.java:219)
+	at org.eclipse.e4.ui.internal.di.UIEventObjectSupplier$UIEventHandler.handleEvent(UIEventObjectSupplier.java:64)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:205)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:203)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:132)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:75)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:44)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:55)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:63)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:424)
+	at org.eclipse.e4.ui.model.application.ui.impl.UIElementImpl.setVisible(UIElementImpl.java:361)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributionRecord.updateVisibility(ContributionRecord.java:113)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRendererFilter.updateElementVisibility(MenuManagerRendererFilter.java:194)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRendererFilter.updateElementVisibility(MenuManagerRendererFilter.java:205)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerShowProcessor.showMenu(MenuManagerShowProcessor.java:258)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerShowProcessor.menuAboutToHide(MenuManagerShowProcessor.java:115)
+	at org.eclipse.jface.internal.MenuManagerEventHelper.showEventPostHelper(MenuManagerEventHelper.java:95)
+	at org.eclipse.jface.action.MenuManager.handleAboutToShow(MenuManager.java:472)
+	at org.eclipse.jface.action.MenuManager.access$1(MenuManager.java:466)
+	at org.eclipse.jface.action.MenuManager$2.menuShown(MenuManager.java:498)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:259)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4131)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1056)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1080)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Control.WM_INITMENUPOPUP(Control.java:5132)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4788)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:348)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1501)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2138)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4770)
+	at org.eclipse.swt.internal.win32.OS.TrackPopupMenu(Native Method)
+	at org.eclipse.swt.widgets.Menu._setVisible(Menu.java:253)
+	at org.eclipse.swt.widgets.Display.runPopups(Display.java:3985)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3541)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1173)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1062)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:635)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:559)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:155)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:660)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:597)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1468)
+Caused by: java.lang.NullPointerException
+	at org.eclipse.tm4e.ui.internal.menus.ThemeContribution.getContributionItems(ThemeContribution.java:59)
+	at org.eclipse.ui.actions.CompoundContributionItem.getContributionItemsToFill(CompoundContributionItem.java:83)
+	at org.eclipse.ui.actions.CompoundContributionItem.fill(CompoundContributionItem.java:57)
+	at org.eclipse.ui.internal.menus.DynamicMenuContributionItem.fill(DynamicMenuContributionItem.java:146)
+	at org.eclipse.jface.action.MenuManager.doItemFill(MenuManager.java:728)
+	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:805)
+	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:672)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.scheduleManagerUpdate(MenuManagerRenderer.java:1223)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.subscribeUIElementTopicAllRenderedVisibility(MenuManagerRenderer.java:218)
+	at sun.reflect.GeneratedMethodAccessor16.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	... 64 more
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 12:34:00.714
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.ygQBgPil
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 12:34:00.973
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.ygQBgPil
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 12:34:01.028
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 12:34:01.037
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.ygQBgPil => OK
+
+!ENTRY org.eclipse.ui 2 2 2019-06-29 12:34:02.463
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2019-06-29 14:00:15.647 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_171
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.springframework.ide.eclipse.boot.wizard 4 0 2019-06-29 14:00:45.053
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.springframework.ide.eclipse.boot.wizard [1420]
+  Unresolved requirement: Require-Bundle: org.springsource.ide.eclipse.commons.browser; bundle-version="[3.5.0,4.0.0)"; resolution:="optional"
+  Bundle was not resolved because of a uses constraint violation.
+  org.apache.felix.resolver.reason.ReasonException: Uses constraint violation. Unable to resolve resource org.springframework.ide.eclipse.boot.wizard [osgi.identity; type="osgi.bundle"; version:Version="3.9.9.201906180643-RELEASE"; osgi.identity="org.springframework.ide.eclipse.boot.wizard"; singleton:="true"] because it is exposed to package 'javax.xml.bind.annotation' from resources org.eclipse.osgi [osgi.identity; type="osgi.bundle"; version:Version="3.14.0.v20190517-1309"; osgi.identity="org.eclipse.osgi"; singleton:="true"] and javax.xml.bind [osgi.identity; type="osgi.bundle"; version:Version="2.2.0.v201105210648"; osgi.identity="javax.xml.bind"] via two dependency chains.
+
+Chain 1:
+  org.springframework.ide.eclipse.boot.wizard [osgi.identity; type="osgi.bundle"; version:Version="3.9.9.201906180643-RELEASE"; osgi.identity="org.springframework.ide.eclipse.boot.wizard"; singleton:="true"]
+    require: (osgi.wiring.bundle=org.eclipse.core.runtime)
+     |
+    provide: osgi.wiring.bundle: org.eclipse.core.runtime
+  org.eclipse.osgi [osgi.identity; type="osgi.bundle"; version:Version="3.14.0.v20190517-1309"; osgi.identity="org.eclipse.osgi"; singleton:="true"]
+
+Chain 2:
+  org.springframework.ide.eclipse.boot.wizard [osgi.identity; type="osgi.bundle"; version:Version="3.9.9.201906180643-RELEASE"; osgi.identity="org.springframework.ide.eclipse.boot.wizard"; singleton:="true"]
+    import: (&(osgi.wiring.package=javax.ws.rs)(version>=2.0.1))
+     |
+    export: osgi.wiring.package=javax.ws.rs; uses:=javax.xml.bind.annotation
+  javax.ws.rs [osgi.identity; type="osgi.bundle"; version:Version="2.0.1.v201504171603"; osgi.identity="javax.ws.rs"]
+    import: (&(osgi.wiring.package=javax.xml.bind.annotation)(&(version>=2.2.0)(!(version>=3.0.0))))
+     |
+    export: osgi.wiring.package: javax.xml.bind.annotation
+  javax.xml.bind [osgi.identity; type="osgi.bundle"; version:Version="2.2.0.v201105210648"; osgi.identity="javax.xml.bind"]
+	at org.eclipse.osgi.container.Module.start(Module.java:457)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$1.run(ModuleContainer.java:1820)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$2$1.execute(EquinoxContainerAdaptor.java:150)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1813)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1769)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1735)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1661)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.springframework.ide.eclipse.buildship20 4 0 2019-06-29 14:00:45.240
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.springframework.ide.eclipse.buildship20 [1421]
+  Unresolved requirement: Require-Bundle: org.eclipse.buildship.core; bundle-version="[2.0.0,3.0.0)"; resolution:="optional"
+  Unresolved requirement: Require-Bundle: com.gradleware.tooling.model; resolution:="optional"
+  Unresolved requirement: Require-Bundle: org.springframework.ide.eclipse.boot.wizard
+    -> Bundle-SymbolicName: org.springframework.ide.eclipse.boot.wizard; bundle-version="3.9.9.201906180643-RELEASE"; singleton:="true"
+       org.springframework.ide.eclipse.boot.wizard [1420]
+         Unresolved requirement: Require-Bundle: org.springsource.ide.eclipse.commons.browser; bundle-version="[3.5.0,4.0.0)"; resolution:="optional"
+  Bundle was not resolved because of a uses constraint violation.
+  org.apache.felix.resolver.reason.ReasonException: Uses constraint violation. Unable to resolve resource org.springframework.ide.eclipse.boot.wizard [osgi.identity; type="osgi.bundle"; version:Version="3.9.9.201906180643-RELEASE"; osgi.identity="org.springframework.ide.eclipse.boot.wizard"; singleton:="true"] because it is exposed to package 'javax.xml.bind.annotation' from resources org.eclipse.osgi [osgi.identity; type="osgi.bundle"; version:Version="3.14.0.v20190517-1309"; osgi.identity="org.eclipse.osgi"; singleton:="true"] and javax.xml.bind [osgi.identity; type="osgi.bundle"; version:Version="2.2.0.v201105210648"; osgi.identity="javax.xml.bind"] via two dependency chains.
+
+Chain 1:
+  org.springframework.ide.eclipse.boot.wizard [osgi.identity; type="osgi.bundle"; version:Version="3.9.9.201906180643-RELEASE"; osgi.identity="org.springframework.ide.eclipse.boot.wizard"; singleton:="true"]
+    require: (osgi.wiring.bundle=org.eclipse.core.runtime)
+     |
+    provide: osgi.wiring.bundle: org.eclipse.core.runtime
+  org.eclipse.osgi [osgi.identity; type="osgi.bundle"; version:Version="3.14.0.v20190517-1309"; osgi.identity="org.eclipse.osgi"; singleton:="true"]
+
+Chain 2:
+  org.springframework.ide.eclipse.boot.wizard [osgi.identity; type="osgi.bundle"; version:Version="3.9.9.201906180643-RELEASE"; osgi.identity="org.springframework.ide.eclipse.boot.wizard"; singleton:="true"]
+    import: (&(osgi.wiring.package=javax.ws.rs)(version>=2.0.1))
+     |
+    export: osgi.wiring.package=javax.ws.rs; uses:=javax.xml.bind.annotation
+  javax.ws.rs [osgi.identity; type="osgi.bundle"; version:Version="2.0.1.v201504171603"; osgi.identity="javax.ws.rs"]
+    import: (&(osgi.wiring.package=javax.xml.bind.annotation)(&(version>=2.2.0)(!(version>=3.0.0))))
+     |
+    export: osgi.wiring.package: javax.xml.bind.annotation
+  javax.xml.bind [osgi.identity; type="osgi.bundle"; version:Version="2.2.0.v201105210648"; osgi.identity="javax.xml.bind"]
+	at org.eclipse.osgi.container.Module.start(Module.java:457)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$1.run(ModuleContainer.java:1820)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$2$1.execute(EquinoxContainerAdaptor.java:150)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1813)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1769)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1735)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1661)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.springframework.ide.eclipse.buildship30 4 0 2019-06-29 14:00:45.381
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.springframework.ide.eclipse.buildship30 [1422]
+  Unresolved requirement: Require-Bundle: org.springframework.ide.eclipse.boot.wizard
+    -> Bundle-SymbolicName: org.springframework.ide.eclipse.boot.wizard; bundle-version="3.9.9.201906180643-RELEASE"; singleton:="true"
+       org.springframework.ide.eclipse.boot.wizard [1420]
+         Unresolved requirement: Require-Bundle: org.springsource.ide.eclipse.commons.browser; bundle-version="[3.5.0,4.0.0)"; resolution:="optional"
+  Bundle was not resolved because of a uses constraint violation.
+  org.apache.felix.resolver.reason.ReasonException: Uses constraint violation. Unable to resolve resource org.springframework.ide.eclipse.boot.wizard [osgi.identity; type="osgi.bundle"; version:Version="3.9.9.201906180643-RELEASE"; osgi.identity="org.springframework.ide.eclipse.boot.wizard"; singleton:="true"] because it is exposed to package 'javax.xml.bind.annotation' from resources org.eclipse.osgi [osgi.identity; type="osgi.bundle"; version:Version="3.14.0.v20190517-1309"; osgi.identity="org.eclipse.osgi"; singleton:="true"] and javax.xml.bind [osgi.identity; type="osgi.bundle"; version:Version="2.2.0.v201105210648"; osgi.identity="javax.xml.bind"] via two dependency chains.
+
+Chain 1:
+  org.springframework.ide.eclipse.boot.wizard [osgi.identity; type="osgi.bundle"; version:Version="3.9.9.201906180643-RELEASE"; osgi.identity="org.springframework.ide.eclipse.boot.wizard"; singleton:="true"]
+    require: (osgi.wiring.bundle=org.eclipse.core.runtime)
+     |
+    provide: osgi.wiring.bundle: org.eclipse.core.runtime
+  org.eclipse.osgi [osgi.identity; type="osgi.bundle"; version:Version="3.14.0.v20190517-1309"; osgi.identity="org.eclipse.osgi"; singleton:="true"]
+
+Chain 2:
+  org.springframework.ide.eclipse.boot.wizard [osgi.identity; type="osgi.bundle"; version:Version="3.9.9.201906180643-RELEASE"; osgi.identity="org.springframework.ide.eclipse.boot.wizard"; singleton:="true"]
+    import: (&(osgi.wiring.package=javax.ws.rs)(version>=2.0.1))
+     |
+    export: osgi.wiring.package=javax.ws.rs; uses:=javax.xml.bind.annotation
+  javax.ws.rs [osgi.identity; type="osgi.bundle"; version:Version="2.0.1.v201504171603"; osgi.identity="javax.ws.rs"]
+    import: (&(osgi.wiring.package=javax.xml.bind.annotation)(&(version>=2.2.0)(!(version>=3.0.0))))
+     |
+    export: osgi.wiring.package: javax.xml.bind.annotation
+  javax.xml.bind [osgi.identity; type="osgi.bundle"; version:Version="2.2.0.v201105210648"; osgi.identity="javax.xml.bind"]
+	at org.eclipse.osgi.container.Module.start(Module.java:457)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$1.run(ModuleContainer.java:1820)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$2$1.execute(EquinoxContainerAdaptor.java:150)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1813)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1769)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1735)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1661)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.egit.core 1 0 2019-06-29 14:01:16.716
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jface 2 0 2019-06-29 14:01:30.431
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-06-29 14:01:30.431
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@45e9db77,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6c930e7e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:02:33.615
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:02:33.623
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@56d89ef8[org.springframework.tooling.boot.ls:1.8.0.201906200642(id=1426)]
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-06-29 14:02:33.788
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\AmitHazra'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:02:33.859
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:02:38.553
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:29.696
+!MESSAGE Boot LS startup time from start to initialized: 55629ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:29.996
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.WgIBDDxlisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.004
+!MESSAGE subscribing to classpath changes: sts4.classpath.WgIBDDxl isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.013
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.022
+!MESSAGE subsribers = {sts4.classpath.WgIBDDxl=Send Classpath Notifications(773)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.030
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.039
+!MESSAGE project GraphsPractice ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.048
+!MESSAGE project BinarySearchTrees ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.056
+!MESSAGE project BinarySearchTreesPractice ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.063
+!MESSAGE Preparing classpath changed notification GraphsPractice
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.069
+!MESSAGE project BinaryTrees ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.076
+!MESSAGE project CalculatorUI ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.084
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.090
+!MESSAGE project DynamicProgramming ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.099
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.106
+!MESSAGE project FindTheUniqueElement ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.113
+!MESSAGE buffering callback sts4.classpath.WgIBDDxl GraphsPractice false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.119
+!MESSAGE project Graphs ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.127
+!MESSAGE Preparing classpath changed notification BinarySearchTrees
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.133
+!MESSAGE project HackerearthHackathons ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.139
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.146
+!MESSAGE project InterviewBit ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.153
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.159
+!MESSAGE project LinkedList ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.166
+!MESSAGE buffering callback sts4.classpath.WgIBDDxl BinarySearchTrees false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.174
+!MESSAGE project Maps ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.181
+!MESSAGE Preparing classpath changed notification BinarySearchTreesPractice
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.187
+!MESSAGE project ObjectOrientedProgramming ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.195
+!MESSAGE project OthelloGame ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.204
+!MESSAGE project PriorityQueue ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.215
+!MESSAGE project Recursion ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.222
+!MESSAGE project RecursionPractice ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.231
+!MESSAGE project StacksAndQueues ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.238
+!MESSAGE project TicTacToeGame ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.249
+!MESSAGE project TimeAndSpaceComplexity ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.258
+!MESSAGE project TreeNode ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.269
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.275
+!MESSAGE project TriesAndHuffmanCoding ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.283
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.289
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.296
+!MESSAGE buffering callback sts4.classpath.WgIBDDxl BinarySearchTreesPractice false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.302
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.WgIBDDxl => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.309
+!MESSAGE Preparing classpath changed notification BinaryTrees
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.321
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.331
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.338
+!MESSAGE buffering callback sts4.classpath.WgIBDDxl BinaryTrees false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.345
+!MESSAGE Preparing classpath changed notification CalculatorUI
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.352
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.360
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.372
+!MESSAGE buffering callback sts4.classpath.WgIBDDxl CalculatorUI false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.380
+!MESSAGE Preparing classpath changed notification DynamicProgramming
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.387
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.397
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.403
+!MESSAGE buffering callback sts4.classpath.WgIBDDxl DynamicProgramming false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.410
+!MESSAGE Preparing classpath changed notification FindTheUniqueElement
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.417
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.425
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.433
+!MESSAGE buffering callback sts4.classpath.WgIBDDxl FindTheUniqueElement false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.440
+!MESSAGE Preparing classpath changed notification Graphs
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.449
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.456
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.464
+!MESSAGE buffering callback sts4.classpath.WgIBDDxl Graphs false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.470
+!MESSAGE Preparing classpath changed notification HackerearthHackathons
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.477
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.485
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.492
+!MESSAGE buffering callback sts4.classpath.WgIBDDxl HackerearthHackathons false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.499
+!MESSAGE Preparing classpath changed notification InterviewBit
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.506
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.514
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.521
+!MESSAGE buffering callback sts4.classpath.WgIBDDxl InterviewBit false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.527
+!MESSAGE Preparing classpath changed notification LinkedList
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.536
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.544
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.552
+!MESSAGE buffering callback sts4.classpath.WgIBDDxl LinkedList false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.558
+!MESSAGE Preparing classpath changed notification Maps
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.566
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.574
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.582
+!MESSAGE buffering callback sts4.classpath.WgIBDDxl Maps false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.588
+!MESSAGE Preparing classpath changed notification ObjectOrientedProgramming
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.595
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.603
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.610
+!MESSAGE buffering callback sts4.classpath.WgIBDDxl ObjectOrientedProgramming false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.617
+!MESSAGE Preparing classpath changed notification OthelloGame
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.625
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.634
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.641
+!MESSAGE buffering callback sts4.classpath.WgIBDDxl OthelloGame false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.649
+!MESSAGE Preparing classpath changed notification PriorityQueue
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.657
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.666
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.673
+!MESSAGE buffering callback sts4.classpath.WgIBDDxl PriorityQueue false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.682
+!MESSAGE Preparing classpath changed notification Recursion
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.689
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.697
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.704
+!MESSAGE buffering callback sts4.classpath.WgIBDDxl Recursion false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.710
+!MESSAGE Preparing classpath changed notification RecursionPractice
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.719
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.728
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.735
+!MESSAGE buffering callback sts4.classpath.WgIBDDxl RecursionPractice false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.742
+!MESSAGE Preparing classpath changed notification StacksAndQueues
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.750
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.758
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.765
+!MESSAGE buffering callback sts4.classpath.WgIBDDxl StacksAndQueues false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.772
+!MESSAGE Preparing classpath changed notification TicTacToeGame
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.778
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.787
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.793
+!MESSAGE buffering callback sts4.classpath.WgIBDDxl TicTacToeGame false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.801
+!MESSAGE Preparing classpath changed notification TimeAndSpaceComplexity
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.808
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.818
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.824
+!MESSAGE buffering callback sts4.classpath.WgIBDDxl TimeAndSpaceComplexity false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.832
+!MESSAGE Preparing classpath changed notification TreeNode
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.839
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.848
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.855
+!MESSAGE buffering callback sts4.classpath.WgIBDDxl TreeNode false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.861
+!MESSAGE Preparing classpath changed notification TriesAndHuffmanCoding
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.869
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.878
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.885
+!MESSAGE buffering callback sts4.classpath.WgIBDDxl TriesAndHuffmanCoding false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:30.893
+!MESSAGE executing callback sts4.classpath.WgIBDDxl 22 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 14:03:31.172
+!MESSAGE executing callback sts4.classpath.WgIBDDxl SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 18:21:02.854
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.WgIBDDxl
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 18:21:02.995
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.WgIBDDxl
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 18:21:03.010
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 18:21:03.026
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.WgIBDDxl => OK
+
+!ENTRY org.eclipse.ui 2 2 2019-06-29 22:12:48.020
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.eclipse.lsp4e 4 0 2019-06-29 22:13:57.164
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(Unknown Source)
+	at java.util.concurrent.CompletableFuture.get(Unknown Source)
+	at org.eclipse.lsp4e.operations.hover.LSBasedHover.getHoverInfo(LSBasedHover.java:108)
+	at org.springframework.tooling.boot.ls.jdt.SpringBootJavaHoverProvider.getHoverInfo2(SpringBootJavaHoverProvider.java:43)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:167)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:133)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:24.721
+!MESSAGE Boot LS startup time from start to initialized: 61158ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:24.920
+!MESSAGE Boot LS startup time from start to initialized: 61357ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:25.187
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.RXSIOMotisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:25.247
+!MESSAGE subscribing to classpath changes: sts4.classpath.RXSIOMot isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:25.254
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:25.262
+!MESSAGE subsribers = {sts4.classpath.RXSIOMot=Send Classpath Notifications(1520)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:25.268
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.015
+!MESSAGE project GraphsPractice ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.045
+!MESSAGE project BinarySearchTrees ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.061
+!MESSAGE project BinarySearchTreesPractice ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.067
+!MESSAGE Preparing classpath changed notification GraphsPractice
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.074
+!MESSAGE project BinaryTrees ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.080
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.086
+!MESSAGE project CalculatorUI ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.093
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.099
+!MESSAGE project DynamicProgramming ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.105
+!MESSAGE buffering callback sts4.classpath.RXSIOMot GraphsPractice false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.112
+!MESSAGE project FindTheUniqueElement ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.119
+!MESSAGE project Graphs ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.127
+!MESSAGE Preparing classpath changed notification BinarySearchTrees
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.133
+!MESSAGE project HackerearthHackathons ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.141
+!MESSAGE project InterviewBit ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.151
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.160
+!MESSAGE project LinkedList ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.203
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.209
+!MESSAGE project Maps ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.215
+!MESSAGE buffering callback sts4.classpath.RXSIOMot BinarySearchTrees false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.222
+!MESSAGE project ObjectOrientedProgramming ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.233
+!MESSAGE project OthelloGame ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.243
+!MESSAGE project PriorityQueue ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.253
+!MESSAGE project Recursion ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.264
+!MESSAGE project RecursionPractice ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.275
+!MESSAGE Preparing classpath changed notification BinarySearchTreesPractice
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.283
+!MESSAGE project StacksAndQueues ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.290
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.297
+!MESSAGE project TicTacToeGame ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.305
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.311
+!MESSAGE project TimeAndSpaceComplexity ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.318
+!MESSAGE buffering callback sts4.classpath.RXSIOMot BinarySearchTreesPractice false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.324
+!MESSAGE project TreeNode ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.330
+!MESSAGE Preparing classpath changed notification BinaryTrees
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.336
+!MESSAGE project TriesAndHuffmanCoding ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.343
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.352
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.361
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.RXSIOMot => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.372
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.389
+!MESSAGE buffering callback sts4.classpath.RXSIOMot BinaryTrees false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.400
+!MESSAGE Preparing classpath changed notification CalculatorUI
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.406
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.413
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.453
+!MESSAGE buffering callback sts4.classpath.RXSIOMot CalculatorUI false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.466
+!MESSAGE Preparing classpath changed notification DynamicProgramming
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.472
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.481
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.487
+!MESSAGE buffering callback sts4.classpath.RXSIOMot DynamicProgramming false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.494
+!MESSAGE Preparing classpath changed notification FindTheUniqueElement
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.501
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.509
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.516
+!MESSAGE buffering callback sts4.classpath.RXSIOMot FindTheUniqueElement false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.533
+!MESSAGE Preparing classpath changed notification Graphs
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.540
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.548
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.554
+!MESSAGE buffering callback sts4.classpath.RXSIOMot Graphs false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.561
+!MESSAGE Preparing classpath changed notification HackerearthHackathons
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.567
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.575
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.582
+!MESSAGE buffering callback sts4.classpath.RXSIOMot HackerearthHackathons false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.588
+!MESSAGE Preparing classpath changed notification InterviewBit
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.600
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.617
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.646
+!MESSAGE buffering callback sts4.classpath.RXSIOMot InterviewBit false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.657
+!MESSAGE Preparing classpath changed notification LinkedList
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.665
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.705
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.712
+!MESSAGE buffering callback sts4.classpath.RXSIOMot LinkedList false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.735
+!MESSAGE Preparing classpath changed notification Maps
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.743
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.750
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.757
+!MESSAGE buffering callback sts4.classpath.RXSIOMot Maps false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.763
+!MESSAGE Preparing classpath changed notification ObjectOrientedProgramming
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.770
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.778
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.784
+!MESSAGE buffering callback sts4.classpath.RXSIOMot ObjectOrientedProgramming false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.791
+!MESSAGE Preparing classpath changed notification OthelloGame
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.798
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.806
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.812
+!MESSAGE buffering callback sts4.classpath.RXSIOMot OthelloGame false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.819
+!MESSAGE Preparing classpath changed notification PriorityQueue
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.825
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.833
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.840
+!MESSAGE buffering callback sts4.classpath.RXSIOMot PriorityQueue false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.847
+!MESSAGE Preparing classpath changed notification Recursion
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.853
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.861
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.867
+!MESSAGE buffering callback sts4.classpath.RXSIOMot Recursion false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.874
+!MESSAGE Preparing classpath changed notification RecursionPractice
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.880
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.888
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.896
+!MESSAGE buffering callback sts4.classpath.RXSIOMot RecursionPractice false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.903
+!MESSAGE Preparing classpath changed notification StacksAndQueues
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.910
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.957
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.969
+!MESSAGE buffering callback sts4.classpath.RXSIOMot StacksAndQueues false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.984
+!MESSAGE Preparing classpath changed notification TicTacToeGame
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.991
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:26.999
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:27.005
+!MESSAGE buffering callback sts4.classpath.RXSIOMot TicTacToeGame false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:27.013
+!MESSAGE Preparing classpath changed notification TimeAndSpaceComplexity
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:27.020
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:27.027
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:27.034
+!MESSAGE buffering callback sts4.classpath.RXSIOMot TimeAndSpaceComplexity false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:27.040
+!MESSAGE Preparing classpath changed notification TreeNode
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:27.046
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:27.054
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:27.060
+!MESSAGE buffering callback sts4.classpath.RXSIOMot TreeNode false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:27.071
+!MESSAGE Preparing classpath changed notification TriesAndHuffmanCoding
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:27.081
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:27.093
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:27.102
+!MESSAGE buffering callback sts4.classpath.RXSIOMot TriesAndHuffmanCoding false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:27.109
+!MESSAGE executing callback sts4.classpath.RXSIOMot 22 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 22:14:27.117
+!MESSAGE executing callback sts4.classpath.RXSIOMot FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2019-06-29 22:14:27.124
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.RXSIOMot'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:160)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:132)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 23:32:42.815
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.RXSIOMot
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 23:32:42.887
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.RXSIOMot
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 23:32:42.895
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-29 23:32:42.902
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.RXSIOMot => OK
